@@ -106,7 +106,7 @@ body {
   font-family: "Nunito Sans", sans-serif;
   color: #b5b6b7;
   margin-right: 0.8em;
-  transition: all 0.2s ease;
+  transition: all 0.2s cubic-bezier(0.18, 0.89, 0.32, 1.28);
   display: inline-block;
 }
 
